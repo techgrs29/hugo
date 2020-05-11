@@ -4,6 +4,7 @@ date: 2020-05-10T14:44:45.710Z
 description: Casein, which comprise 80% of protein in cow’s milk forms micellar
   structure together with calcium & phosphate ions
 image: img/an592-toasting-milk-glasses-732x549-thumb.jpg
+published: false
 ---
 Casein, which comprise 80% of protein in cow’s milk forms micellar structure together with calcium & phosphate ions.  
 

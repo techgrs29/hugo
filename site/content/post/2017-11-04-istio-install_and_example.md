@@ -12,6 +12,6 @@ tags:
 URL: "/2017/11/04/istio-install_and_example/"
 image: "https://img.zhaohuabing.com/in-post/istio-canary-release/canary_bg.jpg"
 categories: [ Tech ]
-published: true
-hide-in-home: true
+published: false
+hide-in-home: false
 ---
