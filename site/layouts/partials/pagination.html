@@ -1,18 +1,16 @@
-{{ if gt .Paginator.TotalPages 1 }}
- 
-<nav class="cf pa3">
-    {{ if .Paginator.HasNext }}
-    <a class="fl dib link dim black f6 f5-ns b pa2" title="Next Page" href="{{ .Paginator.Next.URL }}">
-        &larr; Previous
-    </a>
+<!-- Pagination -->
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<ul class="pager">
+    {{ if $pag.HasPrev }}
+    <li class="previous">
+        <a href="{{ $pag.Prev.URL }}">&larr; Newer Posts</a>
+    </li>
     {{ end }}
-    <div class="pagination">
-        {{ if .Paginator.HasPrev }}
-        <a class="fl dib link dim black f6 f5-ns b pa2" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
-            Next &rarr;
-        </a>
-        {{ end }}
-    </div>
-</nav>
- 
+    {{ if $pag.HasNext }}
+    <li class="next">
+        <a href="{{ $pag.Next.URL }}">Older Posts &rarr;</a>
+    </li>
+    {{ end }}
+</ul>
 {{ end }}
