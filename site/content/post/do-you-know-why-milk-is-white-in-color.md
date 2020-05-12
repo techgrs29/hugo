@@ -8,7 +8,7 @@ description: Cow's milk is a complex and dynamic fluid that contains all
   factors such as breed, feed intake, age of the cow, season. etc., milk is
   overwhelmingly white!! Ever wondered, why it is so? Answer is, Tyndall effect.
 image: img/an592-toasting-milk-glasses-732x549-thumb.jpg
-published: false
+published: true
 ---
 Casein, which comprise 80% of protein in cow’s milk forms micellar structure together with calcium & phosphate ions.  
 
