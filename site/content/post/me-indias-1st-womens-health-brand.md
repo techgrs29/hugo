@@ -8,16 +8,17 @@ description: >+
 
   Kudos to founders Ankur Goyal & Sheta Mittal!!
 ---
-Dear women, whether you are going through the painful periods, suffering from PCOD, PCOS or UTI, want to maintain fitness or just craving for a chocolate, they have it all for you!! 
+Dear women,   
+Whether you are going through the painful periods, suffering from PCOD, PCOS or UTI, want to maintain fitness or just craving for a chocolate, they have it all for you!! 
 
 This women centric brand has evolved from the deep understanding of the unique needs of women that needs special attention. Their team is not only catering to women’s health but also striving to support the women’s empowerment movement.”
 
 &me products are the best combinations of ancient ayurvedic wisdom and modern nutrition to keep the body healthy & protected. The herbs and
 
-![&Me Product range](img/me-product.webp "&Me Product range")
+![&Me Product range](/img/me-product.webp "&Me Product range")
 
  fruits provide the environment for the body to heal while micro-nutrients take care of proper functioning of body.
 
 Check out the full range of women's health drinks, teas and chocolates from “&me” on below link,
 
-https://www.amazon.in/stores/node/16393769031?*encoding=UTF8&field-lbr_brands_browse-bin=%26Me&ref*=bl_dp_s_web_16393769031
+https://www.amazon.in/stores/node/16393769031

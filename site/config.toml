@@ -21,7 +21,7 @@ home = ["HTML"]
 
 [params]
   header_image = "img/home-img-3.jpg"
-  SEOTitle = "Elixier Blog - Food Innovations Technologies Start-ups"
+  SEOTitle = "Elixier - Food Innovations Technologies Start-ups"
   description = "Food Innovations Technologies Start-ups"
   keyword = "Food Innovations Technologies Start-ups"
   slogan = "Food Innovations Technologies Startups"
