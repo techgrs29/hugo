@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/me-indias-1st-womens-health-brand/</loc>
+    <lastmod>2020-05-12T15:14:36+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/do-you-know-why-milk-is-white-in-color/</loc>
-    <lastmod>2020-05-10T14:44:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-05-10T14:44:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+    <lastmod>2020-05-12T13:27:48+00:00</lastmod>
   </url>
   
   <url>
@@ -28,13 +23,11 @@
   </url>
   
   <url>
-    <loc>/post/jamaica-blue/</loc>
-    <lastmod>2017-01-04T15:04:10+00:00</lastmod>
+    <loc>/top/about/</loc>
   </url>
   
   <url>
-    <loc>/post/making-sense/</loc>
-    <lastmod>2016-12-17T15:04:10+00:00</lastmod>
+    <loc>/top/books/</loc>
   </url>
   
   <url>
@@ -42,7 +35,23 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-05-12T15:14:36+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/products/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-05-12T15:14:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/top/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
