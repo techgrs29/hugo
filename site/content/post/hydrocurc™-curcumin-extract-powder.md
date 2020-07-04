@@ -9,9 +9,9 @@ image: ""
 ---
 Curcuma longa (turmeric), a member of Ginger family, is a popular spice in India and many other Asian countries. Curcumin extracted from turmeric root is widely studied amongst some of the most  powerful antioxidants in the natural world, capable of neutralising free radicals in the body that cause inflammation. Inflammation is well known to promote disease in the the body and a cause of many conditions. 
 
-{{< youtube tFqA6aer1P0 >}}
-
 Standard Curcumin extracts are poorly absorbed in the body, and often combined with piperine (black pepper extract) to overcome this. HydroCurc™ has been shown to be one of the most bioavailable forms of Curcumin extract available today. Enhanced with LipiSperse™ technology, HydroCurc™ is completely water dispersible for maximum absorption in the body.
+
+{{< youtube tFqA6aer1P0 >}}
 
 LipiSperse, developed by Pharmako Biotechnologies (Australia), a partner of Gencor, is a food grade, cold water dispersible (CWD) technology which allows lipophilic active ingredients with otherwise relatively low bioavailability and poor solubility in water, to be easily dispersed in cold water, thereby increasing their bioavailability and uptake in the body.
 
