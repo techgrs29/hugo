@@ -10,6 +10,8 @@ Consumers these days are more concerned about their personal health and well-bei
 
 Clean label refers to food products containing natural, familiar, simple ingredients that are easy to recognize, understand, and pronounce, with no artificial ingredients or synthetic chemicals. And while its precise definition remains subjective, the defining challenge for food industry is clear: How do you remove ingredients from food without compromising product taste, texture, safety and shelf life? 
 
+**Below pyramid explains consumers expectations from a clean label food & several ways to create it...**
+
 We’ve now reached the point where clean label is not just today’s reality; it is the path that packaged food and beverage companies must take. Manufacturers and Brands that can respond will certainly be rewarded as consumers are not only willing to pay more, but would also switch from their current brand to the one that offers more transparency.
 
 There is also a significant opportunity for both food business operators and their ingredient suppliers to gain the trust of consumers with co-branding which can be ultimately converted into higher spend, loyalty and repeat purchases.
