@@ -12,7 +12,7 @@ Clean label refers to food products containing natural, familiar, simple ingredi
 
 **Below pyramid explains consumers expectations from a clean label food & several ways to create it...**
 
-![](img/pillars-of-clean-label.png)
+![](/img/pillars-of-clean-label.png)
 
 We’ve now reached the point where clean label is not just today’s reality; it is a path that packaged food and beverage companies must take. Manufacturers and Brands that can respond will certainly be rewarded as consumers are not only willing to pay more, but would also switch from their current brand to the one that offers more transparency.
 
@@ -27,11 +27,7 @@ Clean labels will grow exponentially and there will be a continued demand for ma
 References:
 
 <https://www.sciencedirect.com/science/article/abs/pii/S0963996917303435>
-
 <https://www.crresearch.com/setting-the-record-straight-on-clean-labels>
-
 <https://cspinet.org/sites/default/files/attachment/Clean%20Label%20report%20%281%29.pdf>
-
 <https://www.foodnavigator-usa.com/Article/2016/09/21/Consumers-choose-clean-label-over-fortification>
-
 <https://www.kerry.com/about/expertise/clean-label>
