@@ -13,7 +13,8 @@ Nutrition is a basic human need and a prerequisite to a healthy life. A proper d
 
 In India, the first attempt to define nutrient requirements was made in 1944 by the Nutrition Advisory Committee of the Indian Research Fund Association, now known as Indian Council of Medical Research (ICMR). Since then it is revised every 10 years. 
 
-Recommended Dietary Allowance (RDA) is the average daily dietary nutrient intake level sufficient to meet the nutrient requirement of around 98% healthy individuals in a particular life stage and gender for a given population group. It considers the individual variation within the group, effect of processing and bio-availability of the nutrient from the diet and diet quality. However, the age group of 60 yr and above has not been considered for calculating nutrient requirement and RDAs.
+Recommended Dietary Allowance (RDA) is the average daily dietary nutrient intake level sufficient to meet the nutrient requirement of around 98% healthy individuals in a particular life stage and gender for a given population group. It considers the individual variation within the group, effect of processing and bio-availability of the nutrient from the diet and diet quality. However, the age group of 60yrs and above has not been considered for calculating RDAs and these values do not even apply to people who are suffering from disease which influence the nutrient intake. They only apply to healthy people.
+
 
 There are several other reference values being used globally
 Estimated Average Requirements (EAR), expected to satisfy the needs of 50% of the people in that age group based on a review of the scientific literature.
