@@ -9,7 +9,7 @@ description: >-
 
   COMING SOON...
 ---
-Nutrition is a basic human need and a prerequisite to a healthy life. A proper diet is essential from the very early stages of life for proper growth, development and to remain active. However, nutritional requirements of an individual vary depending upon age, sex, body composition,  physical activity or vulnerability to infancy or pregnancy. That's where RDA comes in the picture!!
+Nutrition is a basic human need and a prerequisite to a healthy life. A proper diet is essential from the very early stages of life for proper growth, development and to remain active. However, nutritional requirements of an individual vary depending upon age, sex, body composition, physical activity or vulnerability to infancy or pregnancy. That's where the role RDA comes into play!!
 
 In India, the first attempt to define nutrient requirements was made in 1944 by the Nutrition Advisory Committee of the Indian Research Fund Association now known as Indian Council of Medical Research (ICMR). Since then it is revised every 10 years. 
 
