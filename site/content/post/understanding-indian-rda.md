@@ -19,7 +19,8 @@ In view of the growing concern towards unsupervised usage of fortified foods and
 
 Tolerable upper intake levels (TULs) are computed to caution against excessive intake of nutrients that can be harmful in large amounts. This is the highest level of daily nutrient consumption that is considered to be safe for, and cause no side effects in, 97.5% of healthy individuals in each life-stage and sex group. 
  
-
+References:  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366259
 
 
 
