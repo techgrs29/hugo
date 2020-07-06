@@ -15,9 +15,9 @@ In India, the first attempt to define nutrient requirements was made in 1944 by 
 
 Recommended Dietary Allowance (RDA) is the average daily dietary nutrient intake level sufficient to meet the nutrient requirement of around 98% healthy individuals in a particular life stage and gender for a given population group. It considers the individual variation within the group, effect of processing and bio-availability of the nutrient from the diet and diet quality. However, the age group of 60 yrs and above has not been considered for calculating RDAs and these values do not even apply to people who are suffering from disease which influence the nutrient intake. They only apply to healthy people.
 
-In view of the growing concern towards unsupervised usage of Health supplements and nutraceuticals FSSAI had approached the ICMR for guidance on the subject.  The ICMR constituted a Committee to examine the matter, which has submitted its report to FSSAI.
+In view of the growing concern towards unsupervised usage of fortified foods and and health supplements, Tolerable upper intake levels (TULs) have been fixed by the ICMR expert committee recently. This can be included as part of the next revision of nutrient requirements. 
 
-Tolerable upper intake levels (UL) are computed to caution against excessive intake of nutrients that can be harmful in large amounts. This is the highest level of daily nutrient consumption that is considered to be safe for, and cause no side effects in, 97.5% of healthy individuals in each life-stage and sex group. 
+Tolerable upper intake levels (TULs) are computed to caution against excessive intake of nutrients that can be harmful in large amounts. This is the highest level of daily nutrient consumption that is considered to be safe for, and cause no side effects in, 97.5% of healthy individuals in each life-stage and sex group. 
  
 
 
