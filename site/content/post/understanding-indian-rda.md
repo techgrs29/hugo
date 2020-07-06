@@ -13,4 +13,5 @@ Nutrition is a basic human need and a prerequisite to a healthy life. A proper d
 
 In India, the first attempt to define nutrient requirements was made in 1944 by the Nutrition Advisory Committee of the Indian Research Fund Association now known as Indian Council of Medical Research (ICMR). Since then it is revised every 10 years. 
 
-For your help, ICMR has also launched RDA Calculator which is available for free on google play services. It is  based on “Nutrient Requirements and Recommended Dietary Allowance for Indians” book published by NIN(ICMR) in 2010.
+ICMR has also launched RDA Calculator which is available for free on google play services. It is  based on “Nutrient Requirements and Recommended Dietary Allowance for Indians” book published by NIN(ICMR) in 2010. To download the app please click on below link,
+https://apps.mgov.gov.in/descp.do?appid=1385&param=app  
