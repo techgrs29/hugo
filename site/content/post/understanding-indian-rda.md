@@ -9,11 +9,11 @@ description: >-
 
   COMING SOON...
 ---
-Nutrition is a basic human need and a prerequisite to a healthy life. A proper diet is essential from the very early stages of life for proper growth, development and to remain active. However, nutritional requirements of an individual vary depending upon age, sex, body composition, physical activity or vulnerability to infancy or pregnancy. That's where the role RDA comes into play!!
+Nutrition is a basic human need and a prerequisite to a healthy life. A proper diet is essential from the very early stages of life for proper growth, development and to remain active. However, the requirement of nutrients varies from individual to individual based on age, sex, body composition, physical activity and during important life stages of infancy or pregnancy. That's where the role RDA comes into play!!
 
-In India, the first attempt to define nutrient requirements was made in 1944 by the Nutrition Advisory Committee of the Indian Research Fund Association now known as Indian Council of Medical Research (ICMR). Since then it is revised every 10 years. 
+In India, the first attempt to define nutrient requirements was made in 1944 by the Nutrition Advisory Committee of the Indian Research Fund Association, now known as Indian Council of Medical Research (ICMR). Since then it is revised every 10 years. 
 
-Recommended Dietary Allowance (RDA) is the average daily dietary nutrient intake level sufficient to meet the nutrient requirement of around 98% healthy individuals in a particular life stage and gender for a given population group. It considers the individual variation within the group, effect of processing and bio-availability of the nutrient from the diet and diet quality.However, the age group of 60 yr and above has not been considered for calculating nutrient requirement and RDAs.
+Recommended Dietary Allowance (RDA) is the average daily dietary nutrient intake level sufficient to meet the nutrient requirement of around 98% healthy individuals in a particular life stage and gender for a given population group. It considers the individual variation within the group, effect of processing and bio-availability of the nutrient from the diet and diet quality. However, the age group of 60 yr and above has not been considered for calculating nutrient requirement and RDAs.
 
 There are several other reference values being used globally
 Estimated Average Requirements (EAR), expected to satisfy the needs of 50% of the people in that age group based on a review of the scientific literature.
