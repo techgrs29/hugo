@@ -14,7 +14,7 @@ The first Nutrition Advisory Committee of ICMR had made its RDA recommendations 
 
 Kindly refer below video for RDA values,
 
-
+{{< youtube M3XEuK9cttk >}}
 
 **The Food safety & standards Act**, 2006 permits the use of vitamins, minerals and amino acids in functional foods and health supplements provided that the amounts do not exceed the RDA. In case, such standards are not specified, Codex Alimentarius standards can be applied. Foods for special dietary uses (FSDUs) and Foods for special medical purposes (FSMPs) could exceed RDA levels as per schedule III of Nutraceutical regulations based on scientific evidence.
 
@@ -26,5 +26,5 @@ To download the app please click on below link, https://apps.mgov.gov.in/descp.d
 
 References:  
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366259  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366259\
 https://www.fssai.gov.in/upload/advisories/2020/01/5e159e0a809bbLetter_RDA_08_01_2020.pdf
