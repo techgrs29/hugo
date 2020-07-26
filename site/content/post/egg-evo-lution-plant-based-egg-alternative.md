@@ -1,5 +1,5 @@
 ---
-title: 'Egg "Evo"lution: Plant Based Egg Alternative'
+title: 'Egg "Evo"lution: Vegan Egg Alternative By Evo Foods'
 date: 2020-07-25T13:40:02.320Z
 description: EVO’s liquid egg alternative uses advanced plant biochemistry and
   food science to extract proteins from lentils and create a sustainable yet
