@@ -12,7 +12,7 @@ Worldwide, India is currently 3rd in egg production. As per nutritional requirem
 
 Due to the corona virus outbreak and awareness about the environmental impacts of livestock farming among consumers, plant-based proteins are surging in popularity across the country, with local businesses and venture capitalists looking to capitalize on the trend.
 
-![](/img/egg.jpg)
+{{< youtube xYPxlxp-H9c >}}
 
 Inspired by US based Beyond Meat, an Indian food tech startup EVO Foods, is all set to transform India's egg market with is plant based liquid egg alternative.  Created with the latest food technology, the startup harnesses plant proteins derived from lentils to create a sustainable yet delicious “evolved” egg replica that comes without cholesterol, antibiotics or any animal cruelty. Product is also fortified with Vitamin D & Branched chain amino acids.
 
