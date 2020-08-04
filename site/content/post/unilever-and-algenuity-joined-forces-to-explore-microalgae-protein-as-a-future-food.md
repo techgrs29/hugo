@@ -7,9 +7,11 @@ description: "Global FMCG firm, Unilever and biotech start-up Algenuity have
   team to leverage the biotech start-up’s unique algae processing technology and
   ingredients to develop innovative future foods under plant based portfolio. "
 ---
-Developing alternative protein sources like microalgae represents a significant step forwards in transitioning to a new sustainable food system . By 2050, the world will need to produce 70% more food to feed a growing population of 10 billion people. These foods will need to meet a high nutritional standard, while reducing their impact on the environment.
+Meat has been the main source of protein in developed markets for years. However, changing consumer behavior and interest in alternative-protein sources due to health and environmental concerns as well as animal welfare have made way for growth in the alternative-proteins market.
 
-This recognition has made global FMCG firm, Unilever join hands with biotech start-up Algenuity. This partnership will enable Unilever’s Food and Refreshment R&D team to leverage the biotech start-up’s unique algae processing technology and ingredients to develop innovative future foods under plant based portfolio. 
+Developing alternative protein sources represents a significant step forward in transitioning to a new sustainable food system. By 2050, the world will need to produce 70% more food to feed a growing population of 10 billion people. These foods will need to meet a high nutritional standard, while reducing their impact on the environment.
+
+Recognizing this, global FMCG firm Unilever have joined hands with biotech start-up Algenuity. This partnership will enable Unilever’s Food and Refreshment R&D team to leverage the biotech start-up’s unique algae processing technology and ingredients to develop innovative future foods under plant based portfolio. 
 
 The term ‘algae’ describes a highly diverse group of water plants, both marine and freshwater, which differ in size, the way they grow and their appearance in shape and color. It include both seaweeds that are made up of multiple cells and microalgae, which consist of microscopic single cells. 
 
