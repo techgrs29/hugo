@@ -28,8 +28,6 @@ Most importantly, you need not worry about your child’s nutrition if he/she is
 
 Just like any other innovative brand, initially Strawfit has faced many obstacles in explaining the benefits of the product to people and convince them to try it!! But, if you look at the current scenario, Strawfit is available on all the major online platforms and had already made a special place in thousands of families around the country.  This steady progress has helped them to be the part of Amazon Launchpad’s “India Innovators” this year. Offline business is currently limited to Indore, but PAN India presence & export business is on the horizon!! We are also expecting some more SKUs to Strawfit basket by next year!!
 
-For more information about flavors and pricing you can check out the complete range of Strawfit products on below link,
-
-
+[Click here](<<a href="https://www.amazon.in/Strawfit-Flavoring-Chocolate-Vanilla-Strawberry/dp/B07YKLRXTF/ref=as_li_ss_il?dchild=1&keywords=strawfit&qid=1598102562&sr=8-12&linkCode=li2&tag=elixier06-21&linkId=7e1a4af3807060ea44c2193342d7aa4b" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YKLRXTF&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=elixier06-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=elixier06-21&l=li2&o=31&a=B07YKLRXTF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />>) to check the complete range of Strawfit products.
 
 Reference:  https://strawfit.com/
