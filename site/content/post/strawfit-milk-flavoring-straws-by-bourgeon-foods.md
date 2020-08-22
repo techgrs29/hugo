@@ -30,6 +30,6 @@ Just like any other innovative brand, initially Strawfit has faced many obstacle
 
 For more information about flavors and pricing you can check out the complete range of Strawfit products on below link,
 
-<a href="https://www.amazon.in/Strawfit-Flavoring-Chocolate-Vanilla-Strawberry/dp/B07YKLRXTF/ref=as_li_ss_il?dchild=1&keywords=strawfit&qid=1598102562&sr=8-12&linkCode=li2&tag=elixier06-21&linkId=e6247ebd501e43301095aa3e688176c9" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YKLRXTF&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=elixier06-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=elixier06-21&l=li2&o=31&a=B07YKLRXTF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<[a href="https://www.amazon.in/Strawfit-Flavoring-Chocolate-Vanilla-Strawberry/dp/B07YKLRXTF/ref=as_li_ss_il?dchild=1&keywords=strawfit&qid=1598102562&sr=8-12&linkCode=li3&tag=elixier06-21&linkId=f380734e0186ebbd2d287245cfa5dcad" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YKLRXTF&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=elixier06-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=elixier06-21&l=li3&o=31&a=B07YKLRXTF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /]>
 
 Reference:  https://strawfit.com/
