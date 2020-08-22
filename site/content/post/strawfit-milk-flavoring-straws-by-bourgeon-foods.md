@@ -16,6 +16,7 @@ However, milk continues to be an extremely nutrient-dense food, especially durin
 
 Indore based start-up; Bourgeon foods have invented 100% recyclable, BPA free, food grade milk flavoring straws. Sounds simple??? But it’s fairly not!!! Their story began back in the year 2016, when a food lover duo, Rajat & his beloved brother Shashank started working on the idea of creating something unique, healthy & natural.
 
+[Click here](https://amzn.to/3l2Oh2x) to check the complete range of Strawfit products.
 ![](/img/strawfit2.jpg)
 
 Biggest challenge with this idea of "milk flavoring straw" was that they had nothing as a reference except their own imagination!!  From concept to recipe to machinery everything was to be tailor made. It took almost 3 long & rigorous years of R&D to bring together the concept, taste profile, development process and machinery for the launch of Strawfit. Tasting 20-30 glasses of milk in a single day to ensure the best sensory experience for consumers is the memory, they still cherish!! 
@@ -31,7 +32,5 @@ Strawfit uses combination of sugar & natural sweetener “stevia” for sweetnes
 Most importantly, you need not worry about your child’s nutrition if he/she is allergic to cow’s milk or just sick of its taste!! Strawfit is completely compatible with vegan milk alternatives like soya milk, rice milk, almond milk etc. Although alternative milk proteins are not one for one swap for cow’s milk, Strwafit’s nutrition will take care of this gap in a fun way!! So, Next time when your child is making faces at the sight of milk try Strawfit and be assured that your child’s requirement is fulfilled.  
 
 Just like any other innovative brand, initially Strawfit has faced many obstacles in explaining the benefits of the product to people and convince them to try it!! But, if you look at the current scenario, Strawfit is available on all the major online platforms and had already made a special place in thousands of families around the country.  This steady progress has helped them to be the part of Amazon Launchpad’s “India Innovators” this year. Offline business is currently limited to Indore, but PAN India presence & export business is on the horizon!! We are also expecting some more SKUs to Strawfit basket by next year!!
-
-[Click here](https://amzn.to/3l2Oh2x) to check the complete range of Strawfit products.
 
 Reference:  https://strawfit.com/
