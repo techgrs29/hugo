@@ -14,9 +14,7 @@ Milk has attracted a lot of controversies in recent years. We all remember our g
 
 However, milk continues to be an extremely nutrient-dense food, especially during the formative years of a child. Many children gulp down the glass of milk in one go while some just dismiss it straightaway. A lot of children create a great deal of fuss over drinking milk, and in case yours is the one – This innovation is for you!!! 
 
-Indore based start-up; Bourgeon foods have invented 100% recyclable, BPA free, food grade milk flavoring straws. Sounds simple??? But it’s fairly not!!! Their story began back in the year 2016, when a food lover duo, Rajat & his beloved brother Shashank started working on the idea of creating something unique, healthy & natural.
-![](/img/strawfit.jpg)
-Biggest challenge with this idea of "milk flavoring straw" was that they had nothing as a reference except their own imagination!!  From concept to recipe to machinery everything was to be tailor made. It took almost 3 long & rigorous years of R&D to bring together the concept, taste profile, development process and machinery for the launch of Strawfit. Tasting 20-30 glasses of milk in a single day to ensure the best sensory experience for consumers is the memory, they still cherish!! 
+Indore based start-up; Bourgeon foods have invented 100% recyclable, BPA free, food grade milk flavoring straws. Sounds simple??? But it’s fairly not!!! Their story began back in the year 2016, when a food lover duo, Rajat & his beloved brother Shashank started working on the idea of creating something unique, healthy & natural. ![](/img/strawfit.jpg) Biggest challenge with this idea of "milk flavoring straw" was that they had nothing as a reference except their own imagination!!  From concept to recipe to machinery everything was to be tailor made. It took almost 3 long & rigorous years of R&D to bring together the concept, taste profile, development process and machinery for the launch of Strawfit. Tasting 20-30 glasses of milk in a single day to ensure the best sensory experience for consumers is the memory, they still cherish!! 
 
 These straws are filled with tiny balls of nutrients and flavor, which when sipped through, turns boring milk into exciting and nourishing drink. Enriched with all essential vitamins, minerals and colostrum, these straws also help to strengthen the immunity, promote growth and keep you active for longer.
 
@@ -32,6 +30,6 @@ Just like any other innovative brand, initially Strawfit has faced many obstacle
 
 For more information about flavors and pricing you can check out the complete range of Strawfit products on below link,
 
-</a href="https://www.amazon.in/Strawfit-Flavoring-Chocolate-Vanilla-Strawberry/dp/B07YKLRXTF/ref=as_li_ss_il?ref_=nav_signin&&linkCode=li2&tag=elixier06-21&linkId=e28b778a22d5c194cb7e67f4bfada985" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YKLRXTF&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=elixier06-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=elixier06-21&l=li2&o=31&a=B07YKLRXTF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 Reference:  https://strawfit.com/
