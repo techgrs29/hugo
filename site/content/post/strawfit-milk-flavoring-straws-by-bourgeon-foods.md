@@ -16,7 +16,7 @@ However, milk continues to be an extremely nutrient-dense food, especially durin
 
 Indore based start-up; Bourgeon foods have invented 100% recyclable, BPA free, food grade milk flavoring straws. Sounds simple??? But it’s fairly not!!! Their story began back in the year 2016, when a food lover duo, Rajat & his beloved brother Shashank started working on the idea of creating something unique, healthy & natural.
 ![](/img/strawfit.jpg)
-Biggest challenge with this idea of flavoring straw was that they had nothing as a reference except their own imagination!!  From concept to recipe to machinery everything was to be tailor made. It took almost 3 long & rigorous years of R&D to bring together the concept, taste profile, development process and machinery for the launch of Strawfit. Tasting 20-30 glasses of milk in a single day to ensure the best sensory experience for consumers is the memory, they still cherish!! 
+Biggest challenge with this idea of "milk flavoring straw" was that they had nothing as a reference except their own imagination!!  From concept to recipe to machinery everything was to be tailor made. It took almost 3 long & rigorous years of R&D to bring together the concept, taste profile, development process and machinery for the launch of Strawfit. Tasting 20-30 glasses of milk in a single day to ensure the best sensory experience for consumers is the memory, they still cherish!! 
 
 These straws are filled with tiny balls of nutrients and flavor, which when sipped through, turns boring milk into exciting and nourishing drink. Enriched with all essential vitamins, minerals and colostrum, these straws also help to strengthen the immunity, promote growth and keep you active for longer.
 
