@@ -1,5 +1,5 @@
 ---
-title: Understanding Indian RDA
+title: "Indian RDA: Are you exceeding Daily Reference Intake of Nutrients??"
 date: 2020-07-06T12:12:18.716Z
 description: Recommended Dietary Allowance (RDA) is the average daily dietary
   nutrient intake level sufficient to meet the nutrient requirement of around
