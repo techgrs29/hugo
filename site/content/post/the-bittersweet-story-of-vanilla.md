@@ -48,7 +48,7 @@ This incredibly labor-intensive way in which vanilla must be cultivated makes va
 
 **[Vanillin](https://amzn.to/33bwGNN)** is the principal aroma compound of the natural vanilla extract!! Cured Vanilla pods contain about 2% of vanillin on dry basis.
 
-About 85% of commercially available vanilla flavor is actually a Vanillin, synthesized artificially from the petrochemical precursor Guaiacol or Lignin. Hardly 1% of vanilla flavor that comes from actual vanilla beans is natural. 
+About 85% of commercially available vanilla flavor is actually a Vanillin, synthesized artificially from the petrochemical precursor Guaiacol while rest comes from Lignin wastes. Hardly 1% of vanilla flavor that comes from actual vanilla beans is Natural. 
 
 In response to the ongoing natural trend in industry, big flavor houses like Solvay, Mane are adopting bio-conversion processes to turn natural ingredients like Ferulic Acid, [Eugenol](https://amzn.to/3bGf2oW) or Corn sugar in Nature Identical Vanillin. But both Ferulic Acid and Eugenol are pricey raw materials.
 
