@@ -14,7 +14,7 @@ From Ice creams to cakes, almost every desert & even many personal care products
 
 **Vanilla is the only flavor with a U.S. FDA standard of identity in the Code of Federal Regulations (21 CFR 169).** 
 
-Single-fold Vanilla extract must contain extractive material from 13.35 oz. of vanilla beans (at 25% moisture) per gallon and at least 35% alcohol by volume. Anything less than 35% must be labeled "Vanilla Flavor." Optional ingredients include glycerin, corn syrup, sugar and propylene glycol. Concentrated vanilla extract (or flavor) is made by removing some of the solvent -- usually by vacuum distillation -- until the desired concentration or "fold" is reached. 
+[Single-fold Vanilla extract](https://amzn.to/2DHnt6X) must contain extractive material from 13.35 oz. of vanilla beans (at 25% moisture) per gallon and at least 35% alcohol by volume. Anything less than 35% must be labeled "[Vanilla Flavor](https://amzn.to/3k4Kbpl)." Optional ingredients include glycerin, corn syrup, sugar and propylene glycol.  Concentrated vanilla extract (or flavor) is made by removing some of the solvent -- usually by vacuum distillation -- until the desired concentration or "fold" is reached. 
 
 Although Madagascar dominates world’s vanilla production, Mexico is actually the birthplace of the vanilla orchid, also known as Vanilla planifolia Andrews. For centuries, vanilla could only be found throughout Mexico because of an indigenous bee called Melipona, the only insect to pollinate the orchid flower that produces fruit. Vanilla was finally introduced to the rest of the world when the pods were brought back to Spain in the late 1700s. Madagascar, Indonesia, china, PNG & Mexico are top 5 producers of vanilla, worldwide.
 
@@ -35,8 +35,8 @@ In this the outer vegetative skin of the bean is killed by soaking it in hot wat
 **STAGE 2: SWEATING**
 
 As soon as the beans are pulled from the water, workers rush to wrap them tightly in wool blankets, storing them inside a dark, airtight container. Speed is essential to preserve heat and steam. These trigger the enzymes that convert cellulose and starches to vanillin and other complex components that give vanilla its beautifully subtle aroma.
- 
-**STAGE 3: DRYING**
+
+ **STAGE 3: DRYING**
 
 During this stage Vanilla beans are laid out into the hot sun all day and then locked up at night or during rainy or cloudy days so they won’t be stolen or ruined by climate. No longer wrapped up so that moisture doesn’t get trapped in the pod and cause mold. This usually takes 3 to 4 weeks to make sure each pod has about 30-35% moisture content and doesn’t dry out too much and split.
 
@@ -46,14 +46,13 @@ By now, the beans are exploding with aroma and flavor, and almost ready. They ar
 
 This incredibly labor-intensive way in which vanilla must be cultivated makes vanilla the second most expensive spice in the world, after Saffron!! It's value comes from the delicate complexity of over 250 known flavor components coming together in a unique flavor that simply cannot be duplicated!! Sky-high prices of vanilla is the most important reason why commercial users are switching to cheaper alternatives, vanillin & ethyl vanillin!! 
 
-**Vanillin** is the principal aroma compound of the natural vanilla extract!! Cured Vanilla pods contain about 2% of vanillin on dry basis. 
+**Vanillin** is the principal aroma compound of the natural vanilla extract!! Cured Vanilla pods contain about 2% of vanillin on dry basis.
 
 About 85% of commercially available vanilla flavor is actually a Vanillin, synthesized artificially from the petrochemical precursor Guaiacol or Lignin. Hardly 1% of vanilla flavor that comes from actual vanilla beans is natural. 
 
 In response to the ongoing natural trend in industry, big flavor houses like Solvay, Mane are adopting bio-conversion processes to turn natural ingredients like Ferulic Acid, Eugenol or Corn sugar in Nature Identical Vanillin. But both Ferulic Acid and Eugenol are pricey raw materials.
 
-Also, bio-conversion via yeast and bacteria presents limitations as high concentrations of both Ferulic Acid and Eugenol are toxic to most microbes, as is vanillin. Indeed, all three compounds are made by plants as antimicrobials. 
-Moreover that, yields are generally low because the microbes also produce undesirable Vanillin alcohol and Vanillic acid. 
+Also, bio-conversion via yeast and bacteria presents limitations as high concentrations of both Ferulic Acid and Eugenol are toxic to most microbes, as is vanillin. Indeed, all three compounds are made by plants as antimicrobials.  Moreover that, yields are generally low because the microbes also produce undesirable Vanillin alcohol and Vanillic acid. 
 
 Obtaining a vanillin yield of more than a few grams per liter of fermentation broth requires specialized or mutated strains and often lengthy incubation periods. The biotechnology firm Evolva developed a process to get around high feedstock costs and toxicity problems by feeding glucose to a genetically modified microbe that produces vanillin glucoside. The sugar group makes vanillin much less toxic to the production organism but must be removed to get vanillin. However, it is not yet clear whether vanillin made from Genetically Modified Organisms will be adopted or marketed. 
 
@@ -67,17 +66,16 @@ No matter what material Vanillin is derived from, all forms are chemically iden
 
 Ethyl vanillin is roughly three times as potently flavorful and fragrant as vanillin. Plus, it can withstand the high temperatures during food manufacturing processes. Although, it is expensive than vanillin, using combination of the two compounds can provide a richer, deeper mimic of vanilla flavor without suppressing one another. 
 
-You can make your own Vanilla extract at home but it will take time!! If you want to try it at home; all you need is Vanilla beans, Alcohol & an Air tight stoppered bottle!! 
+You can make your own Vanilla extract at home but it will take time!! If you want to try it at home; all you need is Vanilla beans, Alcohol & an Air tight stoppered bottle!!
 
-**Choose the Vanilla bean that best suits your palate!! Choose your choice of alcohol with 40-80% strength for better extraction. Slit open the Vanilla bean vertically & let it infused in alcohol for about 8 weeks in cool and dark place. **
+**Choose the Vanilla bean that best suits your palate!! Choose your choice of alcohol with 40-80% strength for better extraction. Slit open the Vanilla bean vertically & let it infused in alcohol for about 8 weeks in cool and dark place.**  
 
 Top quality beans are long, fleshy, supple, very dark brown to black in color, somewhat oily in appearance, strongly aromatic and free from scars and blemishes. Low-quality beans are usually hard, dry, thin, brown or reddish-brown in color and possess a poor aroma. The moisture content of top grade beans is as high as 30 to 40%, whereas it may be as little as 10% in the lower grades. 
 
-Also, Vanilla from each country has its own distinctive flavor profile and characteristics, owing to the different climates, soils, curing methods and vanilla species. For instance, Vanilla from Madagascar has a creamy n sweet flavor while Mexican Vanilla is known for its hint of spice, along with sweet notes. On the other hand Tahitian Vanilla has fruity and flowery attributes. 
+Also, Vanilla from each country has its own distinctive flavor profile and characteristics, owing to the different climates, soils, curing methods and vanilla species. For instance, [Vanilla from Madagascar ](https://amzn.to/3bNgxBV)has a creamy n sweet flavor while Mexican Vanilla is known for its hint of spice, along with sweet notes. On the other hand Tahitian Vanilla has fruity and flowery attributes.
 
 So, flavor of your vanilla extract is solely depend on which beans you choose. You can store Vanilla extract for longer period. It will only become more intense over time & the high alcohol percentage will prevent it from spoilage.
 
 Meanwhile, you can still continue with your recipes with cheaper Vanilla Substitutes like Maple Syrup or almond extract without comprising flavor!!
 
 Thank you so much for reading!!
-
