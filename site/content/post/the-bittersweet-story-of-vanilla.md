@@ -76,6 +76,6 @@ Also, Vanilla from each country has its own distinctive flavor profile and chara
 
 So, flavor of your vanilla extract is solely depend on which beans you choose. You can store Vanilla extract for longer period. It will only become more intense over time & the high alcohol percentage will prevent it from spoilage.
 
-Meanwhile, you can still continue with your recipes with cheaper Vanilla Substitutes like Maple Syrup or almond extract without comprising flavor!!
+Meanwhile, you can still continue with your recipes with cheaper Vanilla Substitutes like [Maple Syrup](https://amzn.to/32cHWtX) or [Almond Extract ](https://amzn.to/3bDpCNG)without comprising flavor!!
 
 Thank you so much for reading!!
