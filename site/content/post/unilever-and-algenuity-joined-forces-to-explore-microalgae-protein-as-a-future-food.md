@@ -7,7 +7,7 @@ description: "Global FMCG firm, Unilever and biotech start-up Algenuity have
   team to leverage the biotech start-up’s unique algae processing technology and
   ingredients to develop innovative future foods under plant based portfolio. "
 ---
-[Meat](https://amzn.to/3ikqWaU) has been the main source of protein in developed markets for years. However, changing consumer behavior and interest in alternative protein sources due to health and environmental concerns as well as animal welfare have made way for growth in the alternative-proteins market.
+[Meat](https://amzn.to/3ikqWaU) has been the main source of protein in developed markets for years. However, changing consumer behavior and interest in alternative protein sources due to health and environmental concerns as well as animal welfare have made way for growth in the [alternative-proteins](https://amzn.to/2R8Qxrb) market.
 
 Developing alternative protein sources represents a significant step forward in transitioning to a new sustainable food system. By 2050, the world will need to produce 70% more food to feed a growing population of 10 billion people. These foods will need to meet a high nutritional standard, while reducing their impact on the environment.
 
