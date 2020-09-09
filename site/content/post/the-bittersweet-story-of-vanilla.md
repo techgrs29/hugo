@@ -70,7 +70,7 @@ You can make your own Vanilla extract at home but it will take time!! If you wan
 
 **Choose the Vanilla bean that best suits your palate!! Choose your choice of alcohol with 40-80% strength for better extraction. Slit open the Vanilla bean vertically & let it infused in alcohol for about 8 weeks in cool and dark place.**  
 
-Top quality beans are long, fleshy, supple, very dark brown to black in color, somewhat oily in appearance, strongly aromatic and free from scars and blemishes. Low-quality beans are usually hard, dry, thin, brown or reddish-brown in color and possess a poor aroma. The moisture content of top grade beans is as high as 30 to 40%, whereas it may be as little as 10% in the lower grades. 
+[Top quality beans](https://amzn.to/3iffQUe) are long, fleshy, supple, very dark brown to black in color, somewhat oily in appearance, strongly aromatic and free from scars and blemishes. Low-quality beans are usually hard, dry, thin, brown or reddish-brown in color and possess a poor aroma. The moisture content of top grade beans is as high as 30 to 40%, whereas it may be as little as 10% in the lower grades. 
 
 Also, Vanilla from each country has its own distinctive flavor profile and characteristics, owing to the different climates, soils, curing methods and vanilla species. For instance, [Vanilla from Madagascar ](https://amzn.to/3bNgxBV)has a creamy n sweet flavor while Mexican Vanilla is known for its hint of spice, along with sweet notes. On the other hand Tahitian Vanilla has fruity and flowery attributes.
 
