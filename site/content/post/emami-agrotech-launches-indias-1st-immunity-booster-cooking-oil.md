@@ -8,7 +8,7 @@ description: >-
 
   India's first cooking oil with 5 immunity boosters.
 ---
-Emami Agrotech, the well know edible oil brand brings yet another innovation in response to the changing consumer behaviour during Covid-19 outbreak. 
+[Emami Agrotech](https://amzn.to/35jtxOz), the well know edible oil brand brings yet another innovation in response to the changing consumer behaviour during Covid-19 outbreak. 
 
 Emami Healthy & Tasty Smart Balance, India's 1st Immunity Booster cooking oil has 5 scientifically proven immunity boosters, Vitamin A, C, D, E & Omega 3. This unique combination prepares your family to fight several diseases, strengthens your immune system & provides nourishment. 
 
