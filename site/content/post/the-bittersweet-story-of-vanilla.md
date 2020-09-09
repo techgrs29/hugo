@@ -66,7 +66,7 @@ No matter what material Vanillin is derived from, all forms are chemically iden
 
 Ethyl vanillin is roughly three times as potently flavorful and fragrant as vanillin. Plus, it can withstand the high temperatures during food manufacturing processes. Although, it is expensive than vanillin, using combination of the two compounds can provide a richer, deeper mimic of vanilla flavor without suppressing one another. 
 
-You can make your own Vanilla extract at home but it will take time!! If you want to try it at home; all you need is Vanilla beans, Alcohol & an Air tight stoppered bottle!!
+You can make your own Vanilla extract at home but it will take time!! If you want to try it at home; all you need is Vanilla beans, Alcohol & [an Air tight stoppered bottle](https://amzn.to/3m2GWAp)!!
 
 **Choose the Vanilla bean that best suits your palate!! Choose your choice of alcohol with 40-80% strength for better extraction. Slit open the Vanilla bean vertically & let it infused in alcohol for about 8 weeks in cool and dark place.**  
 
