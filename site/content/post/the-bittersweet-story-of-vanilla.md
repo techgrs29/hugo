@@ -10,7 +10,7 @@ description: “Vanilla" is the world’s most popular flavor. But did you know 
 ---
 **Vanilla** is a member of the [Orchid family](https://amzn.to/3hg1EsZ), the largest and oldest family of flowering plants in the world!! It grows best in the moist, tropical regions of the world, 10 to 20 degrees north and south of the Equator.
 
-From Ice creams to cakes, almost every desert & even many personal care products like perfumes, hand wash, body lotions use vanilla as their signature ingredient. It is world’s most popular & versatile aroma compound. 
+From Ice creams to cakes, almost every desert & even many personal care products like [perfumes](https://amzn.to/2R92kWr), [hand wash](https://amzn.to/2R92D3x), [body wash](https://amzn.to/2R9vDrY) use vanilla as their signature ingredient. It is world’s most popular & versatile aroma compound. 
 
 **Vanilla is the only flavor with a U.S. FDA standard of identity in the Code of Federal Regulations (21 CFR 169).** 
 
