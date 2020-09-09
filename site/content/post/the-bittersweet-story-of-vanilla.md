@@ -46,11 +46,11 @@ By now, the beans are exploding with aroma and flavor, and almost ready. They ar
 
 This incredibly labor-intensive way in which vanilla must be cultivated makes vanilla the second most expensive spice in the world, after [Saffron](https://amzn.to/2ZhBoZ2)!! It's value comes from the delicate complexity of over 250 known flavor components coming together in a unique flavor that simply cannot be duplicated!! Sky-high prices of vanilla is the most important reason why commercial users are switching to cheaper alternatives, vanillin & ethyl vanillin!! 
 
-**Vanillin** is the principal aroma compound of the natural vanilla extract!! Cured Vanilla pods contain about 2% of vanillin on dry basis.
+**[Vanillin](https://amzn.to/33bwGNN)** is the principal aroma compound of the natural vanilla extract!! Cured Vanilla pods contain about 2% of vanillin on dry basis.
 
 About 85% of commercially available vanilla flavor is actually a Vanillin, synthesized artificially from the petrochemical precursor Guaiacol or Lignin. Hardly 1% of vanilla flavor that comes from actual vanilla beans is natural. 
 
-In response to the ongoing natural trend in industry, big flavor houses like Solvay, Mane are adopting bio-conversion processes to turn natural ingredients like Ferulic Acid, Eugenol or Corn sugar in Nature Identical Vanillin. But both Ferulic Acid and Eugenol are pricey raw materials.
+In response to the ongoing natural trend in industry, big flavor houses like Solvay, Mane are adopting bio-conversion processes to turn natural ingredients like Ferulic Acid, [Eugenol](https://amzn.to/3bGf2oW) or Corn sugar in Nature Identical Vanillin. But both Ferulic Acid and Eugenol are pricey raw materials.
 
 Also, bio-conversion via yeast and bacteria presents limitations as high concentrations of both Ferulic Acid and Eugenol are toxic to most microbes, as is vanillin. Indeed, all three compounds are made by plants as antimicrobials.  Moreover that, yields are generally low because the microbes also produce undesirable Vanillin alcohol and Vanillic acid. 
 
