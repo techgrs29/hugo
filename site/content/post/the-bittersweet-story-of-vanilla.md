@@ -30,7 +30,7 @@ The four stages of Vanilla curing include,
 
 **STAGE 1: DIPPING**
 
-In this, the outer vegetative skin of the bean is killed by soaking it in hot water to keep it from growing further. No more than three days after harvest, the beans are plunged into water heated to 150-170 degrees Fahrenheit from 10 seconds to three minutes. Timing depends on the size of the beans, whether they have split on the vine, and water temperature. 
+In this, the outer vegetative skin of the bean is killed by soaking it in hot water to keep it from growing further. No more than three days after harvest, the beans are plunged into water heated to 150-170°F from 10 seconds to 3 minutes. Timing depends on the size of the beans, whether they have split on the vine, and water temperature. 
 
 **STAGE 2: SWEATING**
 
