@@ -8,13 +8,13 @@ description: “Vanilla" is the world’s most popular flavor. But did you know 
   prices of vanilla are the most important reason why commercial users are
   switching to cheaper alternatives, Vanillin & Ethyl Vanillin!!
 ---
-**Vanilla** is a member of the orchid family, the largest and oldest family of flowering plants in the world. It grows best in the moist, tropical regions of the world 10 to 20 degrees north and south of the Equator.
+**Vanilla** is a member of the orchid family, the largest and oldest family of flowering plants in the world!! It grows best in the moist, tropical regions of the world, 10 to 20 degrees north and south of the Equator.
 
 From Ice creams to cakes, almost every desert & even many personal care products like perfumes, hand wash, body lotions use vanilla as their signature ingredient. It is world’s most popular & versatile aroma compound. 
 
 **Vanilla is the only flavor with a U.S. FDA standard of identity in the Code of Federal Regulations (21 CFR 169).** 
 
-[Single-fold Vanilla extract](https://amzn.to/2DHnt6X) must contain extractive material from 13.35 oz. of vanilla beans (at 25% moisture) per gallon and at least 35% alcohol by volume. Anything less than 35% must be labeled "[Vanilla Flavor](https://amzn.to/3k4Kbpl)." Optional ingredients include glycerin, corn syrup, sugar and propylene glycol.  Concentrated vanilla extract (or flavor) is made by removing some of the solvent -- usually by vacuum distillation -- until the desired concentration or "fold" is reached. 
+[Single-fold Vanilla extract](https://amzn.to/2DHnt6X) must contain extractive material from 13.35 oz. of vanilla beans (at 25% moisture) per gallon and at least 35% alcohol by volume. Anything less than 35% must be labeled "[Vanilla Flavor](https://amzn.to/3k4Kbpl)." Optional ingredients include glycerin, corn syrup, sugar and propylene glycol.  Concentrated vanilla extract is made by removing some of the solvent -- usually by vacuum distillation -- until the desired concentration or "fold" is reached. 
 
 Although Madagascar dominates world’s vanilla production, Mexico is actually the birthplace of the vanilla orchid, also known as Vanilla planifolia Andrews. For centuries, vanilla could only be found throughout Mexico because of an indigenous bee called Melipona, the only insect to pollinate the orchid flower that produces fruit. Vanilla was finally introduced to the rest of the world when the pods were brought back to Spain in the late 1700s. Madagascar, Indonesia, china, PNG & Mexico are top 5 producers of vanilla, worldwide.
 
