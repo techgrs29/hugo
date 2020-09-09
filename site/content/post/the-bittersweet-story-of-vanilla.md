@@ -72,7 +72,7 @@ You can make your own Vanilla extract at home but it will take time!! If you wan
 
 [Top quality beans](https://amzn.to/3iffQUe) are long, fleshy, supple, very dark brown to black in color, somewhat oily in appearance, strongly aromatic and free from scars and blemishes. Low-quality beans are usually hard, dry, thin, brown or reddish-brown in color and possess a poor aroma. The moisture content of top grade beans is as high as 30 to 40%, whereas it may be as little as 10% in the lower grades. 
 
-Also, Vanilla from each country has its own distinctive flavor profile and characteristics, owing to the different climates, soils, curing methods and vanilla species. For instance, [Vanilla from Madagascar ](https://amzn.to/3bNgxBV)has a creamy n sweet flavor while Mexican Vanilla is known for its hint of spice, along with sweet notes. On the other hand Tahitian Vanilla has fruity and flowery attributes.
+Also, Vanilla from each country has it's own distinctive flavor profile and characteristics, owing to the different climates, soils, curing methods and vanilla species. For instance, [Vanilla from Madagascar ](https://amzn.to/3bNgxBV)has a creamy n sweet flavor while Mexican Vanilla is known for its hint of spice, along with sweet notes. On the other hand Tahitian Vanilla has fruity and flowery attributes.
 
 So, flavor of your vanilla extract is solely depend on which beans you choose. You can store Vanilla extract for longer period. It will only become more intense over time & the high alcohol percentage will prevent it from spoilage.
 
