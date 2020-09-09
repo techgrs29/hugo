@@ -1,7 +1,7 @@
 ---
 title: The Bittersweet Story of Vanilla!!
 date: 2020-09-09T10:56:44.982Z
-description: “Vanilla" is the world’s most popular flavor but did you know that
+description: “Vanilla" is the world’s most popular flavor. But did you know that
   hardly 1% of vanilla flavoring comes from the actual vanilla bean?? The
   incredibly labor-intensive way in which vanilla must be cultivated makes
   vanilla the second most expensive spice in the world, after saffron!! Sky-high
