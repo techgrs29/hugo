@@ -22,7 +22,7 @@ Although Madagascar dominates world’s vanilla production, Mexico is actually t
 
 However, when the beans are harvested, they are still partially green and therefore have neither flavor nor fragrance. They develop these distinctive properties during the curing and drying process. 
 
-**Vanilla Curing is an art!!!** 
+**VANILLA CURING IS AN ART!!!** 
 
 Things can go terribly wrong, anywhere along the line. The worst outcome is mold, deadly to bean flavor and a financial disaster for farmers, curers, and buyers alike. Thus, curing demands an astute eye and years of experience to know when to move the vanilla beans from one stage to the next. There is nothing like seeing a master curer in action!
 
@@ -30,21 +30,21 @@ The four stages of Vanilla curing include,
 
 **STAGE 1: DIPPING**
 
-In this the outer vegetative skin of the bean is killed by soaking it in hot water to keep it from growing further. No more than three days after harvest, the beans are plunged into water heated to 150-170 degrees Fahrenheit from 10 seconds to three minutes. Timing depends on the size of the beans, whether they have split on the vine, and water temperature. 
+In this, the outer vegetative skin of the bean is killed by soaking it in hot water to keep it from growing further. No more than three days after harvest, the beans are plunged into water heated to 150-170 degrees Fahrenheit from 10 seconds to three minutes. Timing depends on the size of the beans, whether they have split on the vine, and water temperature. 
 
 **STAGE 2: SWEATING**
 
-As soon as the beans are pulled from the water, workers rush to wrap them tightly in wool blankets, storing them inside a dark, airtight container. Speed is essential to preserve heat and steam. These trigger the enzymes that convert cellulose and starches to vanillin and other complex components that give vanilla its beautifully subtle aroma.
+As soon as the beans are pulled from the water, workers rush to wrap them tightly in wool blankets, storing them inside a dark, airtight container. Speed is essential to preserve heat and steam. These trigger the enzymes that convert cellulose and starches to vanillin and other complex components that give vanilla it's beautifully subtle aroma.
 
  **STAGE 3: DRYING**
 
-During this stage Vanilla beans are laid out into the hot sun all day and then locked up at night or during rainy or cloudy days so they won’t be stolen or ruined by climate. No longer wrapped up so that moisture doesn’t get trapped in the pod and cause mold. This usually takes 3 to 4 weeks to make sure each pod has about 30-35% moisture content and doesn’t dry out too much and split.
+During this stage Vanilla beans are laid out into the hot sun and then locked up at night or during rainy or cloudy days so they won’t be stolen or ruined by climate. Beans can no longer be wrapped up, as moisture can get trapped causing mold. This usually takes 3 to 4 weeks to make sure each pod has about 30-35% moisture content and doesn’t dry out too much and split.
 
 **STAGE 4: CONDITIONING**
 
 By now, the beans are exploding with aroma and flavor, and almost ready. They are placed in closed boxes lined with wax paper and kept there for at least a month. This preserves and enhances aroma. Beans are often shipped at this stage before conditioning is complete because this is the bean’s final form of storage.
 
-This incredibly labor-intensive way in which vanilla must be cultivated makes vanilla the second most expensive spice in the world, after Saffron!! It's value comes from the delicate complexity of over 250 known flavor components coming together in a unique flavor that simply cannot be duplicated!! Sky-high prices of vanilla is the most important reason why commercial users are switching to cheaper alternatives, vanillin & ethyl vanillin!! 
+This incredibly labor-intensive way in which vanilla must be cultivated makes vanilla the second most expensive spice in the world, after [Saffron](https://amzn.to/2ZhBoZ2)!! It's value comes from the delicate complexity of over 250 known flavor components coming together in a unique flavor that simply cannot be duplicated!! Sky-high prices of vanilla is the most important reason why commercial users are switching to cheaper alternatives, vanillin & ethyl vanillin!! 
 
 **Vanillin** is the principal aroma compound of the natural vanilla extract!! Cured Vanilla pods contain about 2% of vanillin on dry basis.
 
