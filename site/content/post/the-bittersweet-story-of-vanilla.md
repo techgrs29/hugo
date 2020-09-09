@@ -8,7 +8,7 @@ description: “Vanilla" is the world’s most popular flavor. But did you know 
   prices of vanilla are the most important reason why commercial users are
   switching to cheaper alternatives, Vanillin & Ethyl Vanillin!!
 ---
-**Vanilla** is a member of the orchid family, the largest and oldest family of flowering plants in the world!! It grows best in the moist, tropical regions of the world, 10 to 20 degrees north and south of the Equator.
+**Vanilla** is a member of the [Orchid family](https://amzn.to/3hg1EsZ), the largest and oldest family of flowering plants in the world!! It grows best in the moist, tropical regions of the world, 10 to 20 degrees north and south of the Equator.
 
 From Ice creams to cakes, almost every desert & even many personal care products like perfumes, hand wash, body lotions use vanilla as their signature ingredient. It is world’s most popular & versatile aroma compound. 
 
