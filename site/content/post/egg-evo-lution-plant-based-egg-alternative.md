@@ -14,6 +14,6 @@ Due to the corona virus outbreak and awareness about the environmental impacts o
 
 {{< youtube xYPxlxp-H9c >}}
 
-Inspired by US based Beyond Meat, an Indian food tech startup EVO Foods, is all set to transform India's egg market with is plant based liquid egg alternative.  Created with the latest food technology, the startup harnesses plant proteins derived from lentils to create a sustainable yet delicious “evolved” egg replica that comes without cholesterol, antibiotics or any animal cruelty. Product is also fortified with Vitamin D & Branched chain amino acids.
+Inspired by US based Beyond Meat, an Indian food tech startup EVO Foods, is all set to transform India's egg market with is plant based liquid egg alternative.  Created with the latest food technology, the startup harnesses plant proteins derived from lentils to create a sustainable yet delicious “evolved” egg replica that comes without cholesterol, antibiotics or any animal cruelty. Product is also fortified with [Vitamin D](https://amzn.to/2FbDIKc) & [Branched chain amino acids](https://amzn.to/2FbE0kg).
 
 The company is planning to launch it's first commercial product by mid-september. Although price and taste will remain key challenges to overcome, this liquid egg alternative is surely going to be a game-changer and the latest innovation in food technology, ultimately ensuring a sustainability.
