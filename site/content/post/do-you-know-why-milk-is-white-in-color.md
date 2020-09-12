@@ -10,6 +10,8 @@ description: Cow's milk is a complex and dynamic fluid that contains all
 image: img/an592-toasting-milk-glasses-732x549-thumb.jpg
 published: true
 ---
+![](img/aw1226037_09.gif)
+
 Casein, which comprise 80% of protein in cow’s milk forms micellar structure together with calcium & phosphate ions.  
 
 When light passes through homogenized whole milk  these tiny particles along with fat globules suspended throughout milk tend to scatter the light all towards our eyes, making milk look white. 
