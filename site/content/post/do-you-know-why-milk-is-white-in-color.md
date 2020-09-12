@@ -18,4 +18,4 @@ When light passes through homogenized whole milk  these tiny particles along wit
 
 On the other hand, skim milk shows bluish ting as fat globules have been removed & there are now fewer particles in suspension to scatter light.
 
-![](img/ac1230_718d7c85ab5648ff9eecbc1a684e175e_mv2.gif)
+![](/img/ac1230_718d7c85ab5648ff9eecbc1a684e175e_mv2.gif)
