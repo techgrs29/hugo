@@ -15,5 +15,7 @@ Casein, which comprise 80% of protein in cow’s milk forms micellar structure t
 When light passes through homogenized whole milk  these tiny particles along with fat globules suspended throughout milk tend to scatter the light all towards our eyes, making milk look white. 
 
 {{< youtube Xoo7FdMAjms >}}
-  
+
 On the other hand, skim milk shows bluish ting as fat globules have been removed & there are now fewer particles in suspension to scatter light.
+
+![](img/ac1230_718d7c85ab5648ff9eecbc1a684e175e_mv2.gif)
