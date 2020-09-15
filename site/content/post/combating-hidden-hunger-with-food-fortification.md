@@ -1,5 +1,5 @@
 ---
-title: Combating Hidden Hunger with Food Fortification!!
+title: Combating Hidden Hunger by Food Fortification!!
 date: 2020-09-15T09:56:56.019Z
 description: Food Fortification refers to the practice of deliberately
   increasing the content of essential micro nutrients, so as to improve the
@@ -11,7 +11,7 @@ description: Food Fortification refers to the practice of deliberately
 ---
 **Micronutrient deficiency**, also known as Hidden hunger is a serious health risk. It is estimated that more than two billion people suffer from ‘Hidden Hunger’ globally, with nearly half living in India.
 
-**The Global Hunger Index, 2019 has ranked India 102th out of 117 countries !!!**
+              ***The Global Hunger Index, 2019 has ranked India 102th out of 117 countries !!!***
 
 **Hidden hunger** is one of the major concerns where diets are high in calories but low in essential nutrients keeping the body undernourished. So, you might not feel it in the belly, but it strikes at the core of your health and vitality. It has usually always been discussed as a problem of the underprivileged, rural population. But in fact, it is linked to wealthier, urban populations too that rely on more of a energy dense packaged food or junk food!!Lack of consumption of a balanced diet, lack of variety foods in the diet or unavailability of food are some of the reasons for micronutrient deficiency. Often, there is considerable loss of nutrients during the processing of food as well.
 
