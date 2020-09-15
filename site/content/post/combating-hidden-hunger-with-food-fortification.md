@@ -11,13 +11,11 @@ description: Food Fortification refers to the practice of deliberately
 ---
 **Micronutrient deficiency**, also known as Hidden hunger is a serious health risk. It is estimated that more than two billion people suffer from ‘Hidden Hunger’ globally, with nearly half living in India.
 
-              ***The Global Hunger Index, 2019 has ranked India 102th out of 117 countries !!!***
+***The Global Hunger Index, 2019 has ranked India 102th out of 117 countries!!!***
 
-**Hidden hunger** is one of the major concerns where diets are high in calories but low in essential nutrients keeping the body undernourished. So, you might not feel it in the belly, but it strikes at the core of your health and vitality. It has usually always been discussed as a problem of the underprivileged, rural population. But in fact, it is linked to wealthier, urban populations too that rely on more of a energy dense packaged food or junk food!!Lack of consumption of a balanced diet, lack of variety foods in the diet or unavailability of food are some of the reasons for micronutrient deficiency. Often, there is considerable loss of nutrients during the processing of food as well.
+**Hidden hunger** is one of the major concerns where diets are high in calories but low in essential nutrients keeping the body undernourished. So, you might not feel it in the belly, but it strikes at the core of your health and vitality. It has usually always been discussed as a problem of the underprivileged, rural population. But in fact, it is linked to wealthier, urban populations too that rely on more of a energy dense packaged food or junk food!!Lack of consumption of a balanced diet, lack of variety foods in the diet or unavailability of food are some of the reasons for micronutrient deficiency. Often, there is considerable loss of nutrients during the processing of food as well. 
 
-![](/img/nfhs.png)
-
-An alarming 70% of Indians do not consume enough vitamins and minerals and thus suffer from micro-nutrient deficiency. *The silver lining is – it is preventable!!!*
+An alarming 70% of Indians do not consume enough vitamins and minerals and thus suffer from micro-nutrient deficiency. According to the National Family Health Survey (NFHS-4), 58.4% of children under 5 years of age are anaemic while 35.7% are underweight. Percentage of anaemic women in the reproductive age group is also about 53.1% *The silver lining is – it is preventable!!!*
 
 Micronutrient deficiencies can be addressed in three ways; by making changes in the diet, through supplementation, and by means of fortification of food with selected nutrients. While dietary modification is desirable, it is a long-term solution and may require changes in food preparation practices and social customs. Supplementation is an effective and rapid approach, but it requires appropriate medical infrastructure/administration and thus it is costly. That’s where the role of food fortification comes into play!!!
 
