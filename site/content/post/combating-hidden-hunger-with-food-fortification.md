@@ -13,7 +13,7 @@ description: Food Fortification refers to the practice of deliberately
 
 ***The Global Hunger Index, 2019 has ranked India 102th out of 117 countries!!!***
 
-**Hidden hunger** is one of the major concerns where diets are high in calories but low in essential nutrients keeping the body undernourished. So, you might not feel it in the belly, but it strikes at the core of your health and vitality. It has usually always been discussed as a problem of the underprivileged, rural population. But in fact, it is linked to wealthier, urban populations too that rely on more of a energy dense packaged food or junk food!!Lack of consumption of a balanced diet, lack of variety foods in the diet or unavailability of food are some of the reasons for micronutrient deficiency. Often, there is considerable loss of nutrients during the processing of food as well. 
+**Hidden hunger** is one of the major concerns where diets are high in calories but low in essential nutrients keeping the body undernourished. So, you might not feel it in the belly, but it strikes at the core of your health and vitality. It has usually always been discussed as a problem of the underprivileged, rural population. But in fact, it is linked to wealthier, urban populations too that rely on more of a energy dense packaged food or junk food!! Lack of consumption of a balanced diet, lack of variety foods in the diet or unavailability of food are some of the reasons for micronutrient deficiency. Often, there is considerable loss of nutrients during the processing of food as well. 
 
 An alarming 70% of Indians do not consume enough vitamins and minerals and thus suffer from micro-nutrient deficiency. According to the National Family Health Survey (NFHS-4), 58.4% of children under 5 years of age are anaemic while 35.7% are underweight. Percentage of anaemic women in the reproductive age group is also about 53.1% *The silver lining is – it is preventable!!!*
 
@@ -33,11 +33,11 @@ It is implemented at the processing stage, and involves the addition or enhancem
 
 **Target Food Fortification** refers to the fortification of foods designed for specific population subgroups, such as complementary weaning foods for infants. It can be either mandatory or voluntary depending on the public health significance of the problem it is seeking to address.
 
-**Market driven food fortification** is always voluntary, but governed by regulatory limits to ensure that the consumption of these foods will not result in an excessive intake of micro-nutrients.!! It is a business orientated initiative taken by a food manufacturer to add specific amounts of one or more micro-nutrients to processed foods to increase its market value over competition.
+**Market driven food fortification** is always voluntary, but governed by regulatory limits to ensure that the consumption of these foods will not result in an excessive intake of micro-nutrients!! It is a business orientated initiative taken by a food manufacturer to add specific amounts of one or more micro-nutrients to processed foods to increase its market value over competition.
 
 **Home fortification** involves adding multiple micro-nutrients to a semi-solid food prepared in the home. This avoids the policy and food industry involvement and allows for targeted intervention for individuals in need. It is the combination of supplementation and fortification. This is available in the form of — Soluble or crushable tablets, micro-nutrient powder, micro-nutrient-rich spreads.
 
-**Bio-fortification** is a relatively new intervention that involves breeding food crops, using conventional or transgenic methods, to increase their micro-nutrient content. Plant breeders also improve yield and pest resistance, as well as consumption traits, like taste and cooking time—to match or outperform conventional varieties.
+**Bio-fortification** is a relatively new intervention that involves breeding food crops, using conventional or transgenic methods, to increase their micro-nutrient content. Plant breeders also improve yield and pest resistance, as well as consumption traits, like taste and cooking time to match or outperform conventional varieties.
 
 In contrast to large-scale fortification, which usually reaches a greater share of urban than rural residents, bio-fortification first targets rural areas where crops are produced. Marketed surpluses of bio-fortified crops may make their way into retail outlets, reaching consumers first in rural areas, then in urban ones. Given that bio-fortified staple foods cannot deliver as high a level nor as wide a range of minerals and vitamins as supplements or industrially fortified foods can, they are not the best response to clinical deficiencies. However, they can help close the micro-nutrient intake gap and increase the daily intake of vitamins and minerals throughout a person’s life.
 
@@ -49,7 +49,7 @@ One of the key processes in the development of a successful fortification is sel
 
 **Fortificant** is the specific nutrient that is being added to the food vehicle. the micronutrient added should have a good bio-availability, affordable cost, should have acceptable color, taste, solubility and particle size and it should be commercially available.
 
-**Dry mixing**, **Dissolution in water and oil**, **Spraying**, **Coating**, **Pelleting are some of the common food fortification techniques which will be discussed in detail in second part of this article, Industrial food fortification techniques.**
+***Dry mixing**, **Dissolution in water and oil**, **Spraying**, **Coating**, **Pelleting are some of the common food fortification techniques which will be discussed in detail in second part of this article, Industrial food fortification techniques.***
 
 Being a food-based approach, food fortification offers a number of advantages over other interventions aimed at preventing and controlling micro-nutrient deficiencies. Most importantly it is a socio-culturally acceptable way to deliver nutrients that does not require any changes to be made in existing food patterns. With the type of food technology & distribution system in hand, it is most cost effective and feasible way to fortify foods with several micro-nutrients simultaneously without altering food characteristics. Fortification of widely distributed and widely consumed foods such as staples, has the potential to improve the nutritional status of a large proportion of the population, both poor and wealthy. If consumed on a regular and frequent basis, fortified foods will maintain body stores of nutrients more efficiently and more effectively than will intermittent supplements.
 
@@ -77,4 +77,4 @@ References:
 
 https://ffrc.fssai.gov.in/
 
-Book: Guidelines on Food Fortification with Micronutrients  
+Book: Guidelines on Food Fortification with Micronutrients
