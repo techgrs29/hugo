@@ -47,7 +47,7 @@ One of the key processes in the development of a successful fortification is sel
 
 **Food Vehicle** is the specific food to which the process of fortification is done. This requires specific knowledge of specific food patterns of who is eating what food among the groups at greatest risk of deficiency. Overall, staples have been the primary choice as they are widely consumed by the population, whereas processed foods and cereals have been chosen when infants were the target population.
 
-**Fortificant** is the specific nutrient that is being added to the food vehicle. the micronutrient added should have a good bio-availability, affordable cost, should have acceptable color, taste, solubility and particle size and it should be commercially available.
+**Fortificant** is the specific nutrient that is being added to the food vehicle. The micronutrient added should have a good bio-availability, affordable cost, should have acceptable color, taste, solubility and particle size and it should be commercially available.
 
 ***Dry mixing**, **Dissolution in water and oil**, **Spraying**, **Coating**, **Pelleting are some of the common food fortification techniques which will be discussed in detail in second part of this article, Industrial food fortification techniques.***
 
