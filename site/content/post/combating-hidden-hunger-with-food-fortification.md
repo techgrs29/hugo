@@ -27,7 +27,7 @@ Food fortification is an attractive public health strategy and has the advantage
 
 It is implemented at the processing stage, and involves the addition or enhancement of one or more nutrients to a food product. Several types of fortification programs exist, covering mass, targeted, voluntary, and mandatory fortification.
 
-**Mandatory fortification** applies in the case where the government makes it a regulatory requirement to fortify a given food product. The most common case of mandatory fortification is the Universal Salt Iodisation (USI) programme—which India also implements—which requires salt to be fortified with an adequate amount of iodine (≥15 ppm).
+**Mandatory fortification** applies in the case where the government makes it a regulatory requirement to fortify a given food product. The most common case of mandatory fortification is the Universal Salt Iodisation (USI) programme which requires salt to be fortified with an adequate amount of iodine (≥15 ppm).
 
 **Mass fortification** involves the addition of micro-nutrients to particular food groups or products which are widely consumed across a given population, such as wheat or rice in India. This type of programme is used in addressing nutrient deficiencies which are prevalent across a large proportion of the population. In the case of India, this would include calcium, vitamin A, B12, Folate, and Lysine. However, this coverage could also be extended to a wider range of micro-nutrients, especially those such as iron and zinc where deficiency is still highly prevalent, albeit within smaller demographics.
 
@@ -72,3 +72,9 @@ However, pan-India public education programmes are required to inform the public
 So, next time when you visit the nearest grocery store, remember to opt for fortified food products to ensure the health and nutrition for your family.
 
 ![](/img/special-thanks.png)
+
+References:
+
+https://ffrc.fssai.gov.in/
+
+Book: Guidelines on Food Fortification with Micronutrients  
