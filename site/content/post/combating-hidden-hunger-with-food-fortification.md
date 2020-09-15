@@ -21,7 +21,7 @@ Micronutrient deficiencies can be addressed in three ways; by making changes in 
 
 Food fortification is an attractive public health strategy and has the advantage of reaching wider at-risk population groups through existing food delivery systems, without requiring major changes in existing consumption patterns.
 
-{{< youtube/efkVY-UyGDM >}}
+{{< youtube/SqUkbvf30D0 >}}
 
 ***Food Fortification refers to the practice of deliberately increasing the content of essential micro nutrients, so as to improve the nutritional quality of the food supply and to provide a public health benefit with minimal risk to health.***
 
