@@ -23,7 +23,7 @@ Food fortification is an attractive public health strategy and has the advantage
 
 ShareTheMeal is a crowdfunding smartphone application to fight global hunger through the United Nations World Food Programme. It enables users to make small donations to specific WFP projects and to track its progress.
 
-https://youtu.be/efkVY-UyGDM
+{{< youtube/efkVY-UyGDM >}}
 
 ***Food Fortification refers to the practice of deliberately increasing the content of essential micro nutrients, so as to improve the nutritional quality of the food supply and to provide a public health benefit with minimal risk to health.***
 
