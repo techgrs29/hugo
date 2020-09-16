@@ -18,6 +18,8 @@ From [Ice creams](https://amzn.to/3ieZ7Ra) to [cakes](https://amzn.to/32f4VEO), 
 
 Although Madagascar dominates world’s vanilla production, Mexico is actually the birthplace of the Vanilla Orchid, also known as Vanilla planifolia Andrews. For centuries, vanilla could only be found throughout Mexico because of an indigenous bee called Melipona, the only insect to pollinate orchid flower that produces fruit. Vanilla was finally introduced to the rest of the world when the pods were brought back to Spain in the late 1700s. Madagascar, Indonesia, China, PNG & Mexico are top 5 producers of Vanilla, worldwide.
 
+{{< youtube siQA97Mo9EY >}}
+
 \*\*Growing Vanilla is notoriously labor intensive!!\*\* It can take up to three years after the vines are planted before the first flowers appear. Each flower needs to be pollinated by hand. Within three days after pollination, the vanilla bean appears. It grows to its full length within two weeks but must remain on the vine for nine months in order to completely develop their signature aroma. Without natural ripening, a bean cannot become vanilla!!
 
 However, when the beans are harvested, they are still partially green and therefore have neither flavor nor fragrance. They develop these distinctive properties during the curing and drying process. 
